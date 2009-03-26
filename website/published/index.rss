@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version='2.0' xmlns:lj='http://www.livejournal.org/rss/lj/1.0/' xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>tapperdan</title>
+		<description>Put your question to the test.</description>
+                <link></link>
+                <atom:link href="index.rss" rel="self" type="application/rss+xml" />
+	
+	<item>
+		<title>Starting to come alive.</title>
+		<link>Starting_to_come_alive_.html</link>
+		<guid isPermaLink="true">Starting_to_come_alive_.html</guid>
+                <pubDate>Wed, 25 Mar 2009 14:59:43 GMT</pubDate>
+		<description>
+	&lt;ul&gt;
+		&lt;li&gt; 
+			&lt;a href=&quot;http://github.com/rblackwe/tapperdan/&quot;&gt;project&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt; 	
+			&lt;a href=&quot;http://groups.google.com/group/tapperdan&quot;&gt;mailing list&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt; 
+			&lt;a href=&quot;irc://irc.freenode.net/#tapperdan&quot;&gt;irc&lt;/a&gt; 
+			&lt;a href=&quot;http://github.com/rblackwe/tapperdan/tree/master/irclogs/irc.freenode.net&quot;&gt;logs&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;http://delicious.com/tag/tapperdan&quot;&gt; del.icio.us&lt;/a&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+
+&lt;p&gt;
+    &lt;a href=&quot;http://validator.w3.org/check?uri=referer&quot;&gt;&lt;img
+        src=&quot;http://www.w3.org/Icons/valid-xhtml10&quot;
+        alt=&quot;Valid XHTML 1.0 Strict&quot; height=&quot;31&quot; width=&quot;88&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+</description>
+	</item>
+	
+        </channel>
+</rss>
